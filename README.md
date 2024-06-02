@@ -1,6 +1,6 @@
 <h1>Projeto de Entrega Interplanetária</h1>
 
-<p>Bem-vindo ao projeto de entrega interplanetária! Este é um sistema web desenvolvido em React para gerenciar a logística de entregas entre planetas. Esta aplicação foi criada como parte de um desafio técnico para resolver problemas de transporte interplanetário em um ambiente fictício.</p>
+<p>Bem-vindo ao Projeto de Entrega Interplanetária! Este é um sistema web desenvolvido em React do zero por mim para resolver desafios de logística interplanetária em um ambiente fictício. Foi criado como parte de um teste para uma entrevista de emprego.</p>
 
 <h2>Descrição do Projeto</h2>
 
@@ -18,11 +18,11 @@
 
 <h2>Desafios</h2>
 
-<p>Durante o desenvolvimento deste projeto, enfrentamos vários desafios técnicos e conceituais, incluindo:</p>
+<p>Durante o desenvolvimento deste projeto, enfrentei diversos desafios técnicos e conceituais, tais como:</p>
 
 <ul>
     <li>Roteamento Avançado: Implementar um sistema de roteamento robusto para navegar entre diferentes páginas e estados da aplicação de forma eficiente.</li>
-    <li>Integração com APIs Externas: Integração com APIs externas para obter dados meteorológicos de diferentes planetas e calcular rotas de transporte otimizadas.</li>
+    <li>Integração com APIs Externas: Integrar-se com APIs externas para obter dados meteorológicos de diferentes planetas e calcular rotas de transporte otimizadas.</li>
     <li>Gerenciamento de Estado Complexo: Lidar com um grande volume de dados e estados complexos da aplicação, mantendo um código limpo e fácil de manter.</li>
     <li>Segurança da Informação: Garantir que os dados dos usuários e informações de entrega sejam armazenados e transmitidos de forma segura, protegidos contra ameaças como XSS e CSRF.</li>
     <li>Testes Automatizados: Escrever testes automatizados abrangentes para garantir a estabilidade e confiabilidade da aplicação em diferentes cenários.</li>
@@ -30,7 +30,7 @@
 
 <h2>Como Contribuir</h2>
 
-<p>Estamos sempre abertos a contribuições! Se você deseja melhorar este projeto, por favor, siga estas etapas:</p>
+<p>Estou sempre aberto a contribuições! Se você deseja melhorar este projeto, por favor, siga estas etapas:</p>
 
 <ol>
     <li>Faça um fork do repositório e clone-o para o seu ambiente local.</li>
@@ -63,9 +63,8 @@
 
 <h2>Autores</h2>
 
-<p>Seu Nome - <a href="https://github.com/sucloudflare">Seu GitHub</a></p>
+<p>Este projeto foi autoral e desenvolvido do zero por Seu Nome. Você pode encontrá-lo no <a href="https://github.com/sucloudflare">GitHub</a>.</p>
 
 <h2>Licença</h2>
 
 <p>Este projeto está licenciado sob a Licença MIT - veja o arquivo <a href="LICENSE">LICENSE</a> para detalhes.</p>
-
