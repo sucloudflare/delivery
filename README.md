@@ -52,9 +52,18 @@
     <li>MongoDB: Banco de dados NoSQL para armazenamento de dados.</li>
 </ul>
 
+<h2>Comandos para Usar o Projeto</h2>
+
+<p>Para usar este projeto, siga os seguintes comandos:</p>
+
+<code>git clone https://github.com/sucloudflare/delivery.git</code><br>
+<code>cd delivery</code><br>
+<code>npm install</code><br>
+<code>npm start</code>
+
 <h2>Autores</h2>
 
-<p>Seu Nome - <a href="https://github.com/seu-usuario">Seu GitHub</a></p>
+<p>Seu Nome - <a href="https://github.com/sucloudflare">Seu GitHub</a></p>
 
 <h2>Licença</h2>
 
