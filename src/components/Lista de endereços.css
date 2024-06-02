@@ -1,0 +1,43 @@
+.address-list {
+    width: 80%;
+    margin: 0 auto;
+    padding: 2rem 0;
+}
+
+.address-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.address-image {
+    max-width: 60px;
+    max-height: 60px;
+    margin-right: 1rem;
+    border-radius: 10px;
+}
+
+.address-details {
+    flex: 1;
+    margin-right: 1rem;
+}
+
+.address-details h5 {
+    margin: 0 0 0.5rem 0;
+}
+
+.address-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.action-button {
+    width: 100%;
+}

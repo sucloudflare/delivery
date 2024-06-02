@@ -1,0 +1,124 @@
+/* EditAddressForm.css */
+
+.form-container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+    color: #555;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+.form-image-placeholder {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.form-image-placeholder img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.form-image-placeholder button {
+    font-size: 16px;
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.form-image-placeholder button:hover {
+    color: #0056b3;
+}
+
+.form-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.form-actions button {
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form-actions button.secondary {
+    color: #333;
+    background-color: #f8f9fa;
+    border: 2px solid #ccc;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.form-actions button.secondary:hover {
+    background-color: #e9ecef;
+    color: #555;
+}
+
+.form-actions button.primary {
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+}
+
+.form-actions button.primary:hover {
+    background-color: #0056b3;
+}
+
+/* Adicione seus estilos CSS para as imagens aqui */
+
+.form-img {
+    width: 100px; /* Defina a largura desejada para as imagens */
+    height: auto; /* Mantenha a proporção da imagem */
+    margin-bottom: 10px; /* Adicione uma margem inferior de 10px */
+  }
+  
+  .form-image-placeholder {
+    position: relative; /* Permite posicionar o botão de mudança em relação à imagem */
+  }
+  
+  .form-image-placeholder img {
+    width: 100%; /* Ajusta a largura da imagem ao tamanho do contêiner */
+    height: auto; /* Mantém a proporção da imagem */
+    border-radius: 8px; /* Adiciona uma borda arredondada à imagem */
+    margin-bottom: 10px; /* Adiciona uma margem inferior de 10px */
+  }
+  
+  .form-image-placeholder button {
+    position: absolute; /* Posiciona o botão em relação ao contêiner da imagem */
+    bottom: 0; /* Alinha o botão na parte inferior do contêiner */
+    left: 50%; /* Alinha o botão ao centro horizontalmente */
+    transform: translateX(-50%); /* Centraliza o botão horizontalmente */
+    padding: 5px 10px; /* Adiciona preenchimento ao botão */
+    border: none; /* Remove a borda do botão */
+    background-color: #007bff; /* Cor de fundo do botão */
+    color: #fff; /* Cor do texto do botão */
+    border-radius: 5px; /* Adiciona uma borda arredondada ao botão */
+    cursor: pointer; /* Muda o cursor para indicar que o botão é clicável */
+  }
+  
+  .form-image-placeholder button:hover {
+    background-color: #0056b3; /* Altera a cor de fundo do botão ao passar o mouse */
+  }
+  

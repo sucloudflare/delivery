@@ -1,0 +1,103 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('/3.jpg'); /* Caminho para a imagem no diretório public */
+    background-size: cover; /* Cobrir toda a tela */
+    background-repeat: no-repeat; /* Não repetir a imagem */
+    background-position: center center; /* Centralizar a imagem */
+    color: #555;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: #fff;
+}
+
+.tab-content {
+    margin-top: 20px;
+}
+
+.custom-title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 32px;
+    font-weight: bold;
+    color: #007bff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.custom-tab-content {
+    margin-top: 20px;
+}
+
+.form-control {
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+.btn {
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.btn-outline-primary {
+    color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-outline-primary:hover {
+    color: #0056b3;
+    border-color: #0056b3;
+}
+
+.custom-address-card {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: #fff;
+}
+
+.custom-address-card .card-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.custom-address-card .btn {
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.custom-address-card .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.custom-address-card .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.custom-address-card .btn-outline-primary {
+    color: #007bff;
+    border-color: #007bff;
+}
+
+.custom-address-card .btn-outline-primary:hover {
+    color: #0056b3;
+    border-color: #0056b3;
+}
